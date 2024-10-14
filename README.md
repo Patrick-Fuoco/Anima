@@ -19,4 +19,5 @@ SLAVE2.c++: Controls modules 3 & 4, i.e., lids and stamp.
 Screen.c++: Human-machine interface with joystick navigation for sauce selection and confirmation.  
 
 📷Screenshot:
+[front-view](frontview.png)
 
