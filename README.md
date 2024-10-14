@@ -1,4 +1,4 @@
-Anima - Modular Sauce Dispensing Machine  
+#🦾Anima - Modular Sauce Dispensing Machine  
 
 🎛️ Overview: The ALP-01 is a modular, industry-level sauce dispensing machine controlled using NEMA-17 stepper motors.   
 It features synchronization logic across five machine modules and a human-machine interface (HMI) to allow operators to select different sauces and quantities with precision.
