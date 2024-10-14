@@ -17,3 +17,6 @@ Hardware: Arduino ecosystem (LCD 16x2, joystick, NEMA-17 stepper motors, Arduino
 SLAVE1.c++: Controls modules 1 & 2, i.e., the container dispenser and the pump.  
 SLAVE2.c++: Controls modules 3 & 4, i.e., lids and stamp.  
 Screen.c++: Human-machine interface with joystick navigation for sauce selection and confirmation.  
+
+📷Screenshot:
+
